@@ -33,7 +33,7 @@ nav {
 	z-index: 1000;
 	background: #fff;
 	justify-content: space-around;
-	transition: 1.5s;
+	transition: 2s;
 	align-items: center;
 }
 nav ul {

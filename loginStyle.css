@@ -178,7 +178,7 @@ span
 .other {
 	display: grid;
 	justify-content: center;
-	margin-top: 250px;
+	margin-top: 270px;
 }
 
 .connect {
@@ -188,10 +188,10 @@ span
 	align-items: center;
 	text-align: center;
 	justify-content: center;
-	border: 1px solid lightgray;
+	border: 1px solid lightblue;
 	cursor: pointer;
 	outline: none;
-	/*border-radius: 10px;*/
+	border-radius: 2px;
 	background: #fff3;
 }
 .connect:hover {
