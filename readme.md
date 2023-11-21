@@ -1,4 +1,4 @@
-## LearnEd (E-learning Website)
+## (E-learning Website)
 An educational website for students and programmers 😊😊😊  
 
 <!-- ![](pcView.png) -->
